@@ -11,7 +11,7 @@ Calculate the root mean square error for a dataset.
 
 # example
 
-```
+```javascript
 var RMSE = require('rmse');
  var dataset = [{
       actual: 3,
@@ -37,7 +37,7 @@ Calculate the mean square error for a dataset.
 
 # example
 
-```
+```javascript
 var RMSE = require('rmse');
  var dataset = [{
       actual: 3,
