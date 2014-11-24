@@ -1,6 +1,6 @@
 {
   "name": "rmse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Utils for calculating root mean square error.",
   "main": "index.js",
   "scripts": {
