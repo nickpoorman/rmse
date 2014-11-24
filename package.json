@@ -1,6 +1,6 @@
 {
   "name": "rmse",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Utils for calculating root mean square error.",
   "main": "index.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "url": "https://github.com/nickpoorman/rmse/issues"
   },
   "homepage": "https://github.com/nickpoorman/rmse",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^2.0.1",
     "should": "^4.3.0"
