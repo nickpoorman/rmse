@@ -2,7 +2,7 @@
 
 Various functions for calculating root mean square error (RMSE) and mean square error (MSE).
 
-[![build status](https://secure.travis-ci.org/nickpoorman/rmse.png)](http://travis-ci.org/nickpoorman/rmse)
+[![wercker status](https://app.wercker.com/status/fac2afbefd9552dcc13f61b13f3b7636/s "wercker status")](https://app.wercker.com/project/bykey/fac2afbefd9552dcc13f61b13f3b7636)
 
 # usage
 ## RMSE.rmse(dataset)
